@@ -7,7 +7,11 @@ Presentacion:
  - [ ] Objetos planos; '{' ambiguo
  - [ ] Explicar el binding del this
  - [ ] Ejemplo botones; no usar variable auxiliar (pro) 
- - [ ] Ejemplo protorypos;
+ - [ ] Ejemplo protorypos; al agregar metodo que ocupa this a objeto, this no esta bien definido (scope objeto, no metodo)
+ - 
+Conclusiones:
+
+Para ocupar nuevos contextos, se debe ocupar una declaración de función.
 
 Referencias:
  - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
