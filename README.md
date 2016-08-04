@@ -2,5 +2,7 @@
 Desarrollo e investigaciones de las "funciones flecha" en ES6
 
 Referencias:
- - https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
- - http://kangax.github.io/nfe/
+ - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
+ - (Function Declaration vs Expression) http://kangax.github.io/nfe/
+ - (Sintax) http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax
+ - (In-depth use) https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/ 
