@@ -1,6 +1,10 @@
 # ArrowFunctions
 Desarrollo e investigaciones de las "funciones flecha" en ES6
 
+Ejemplos:
+
+ - [] Objetos planos
+
 Referencias:
  - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
  - (Function Declaration vs Expression) http://kangax.github.io/nfe/
