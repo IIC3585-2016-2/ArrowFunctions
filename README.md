@@ -1,7 +1,7 @@
 # ArrowFunctions
 Desarrollo e investigaciones de las "funciones flecha" en ES6
 
-Presentacion:
+##Presentacion:
  - [ ] Explicar uso de Arrow Function
  - [ ] Use de declaración o expresión
  - [ ] Objetos planos; '{' ambiguo
@@ -9,11 +9,10 @@ Presentacion:
  - [ ] Ejemplo botones; no usar variable auxiliar (pro) 
  - [ ] Ejemplo protorypos; al agregar metodo que ocupa this a objeto, this no esta bien definido (scope objeto, no metodo)
 
-Conclusiones:
+##Conclusiones:
+ - Para ocupar nuevos contextos, se debe ocupar una declaración de función.
 
-Para ocupar nuevos contextos, se debe ocupar una declaración de función.
-
-Referencias:
+##Referencias:
  - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
  - (Function Declaration vs Expression) http://kangax.github.io/nfe/
  - (Sintax) http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax
