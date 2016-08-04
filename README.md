@@ -1,9 +1,13 @@
 # ArrowFunctions
 Desarrollo e investigaciones de las "funciones flecha" en ES6
 
-Ejemplos:
-
- - [x] Objetos planos
+Presentacion:
+ - [ ] Explicar uso de Arrow Function
+ - [ ] Use de declaración o expresión
+ - [ ] Objetos planos; '{' ambiguo
+ - [ ] Explicar el binding del this
+ - [ ] Ejemplo botones; no usar variable auxiliar (pro) 
+ - [ ] Ejemplo protorypos;
 
 Referencias:
  - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
