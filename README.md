@@ -3,7 +3,7 @@ Desarrollo e investigaciones de las "funciones flecha" en ES6
 
 Ejemplos:
 
- - [ ] Objetos planos
+ - [x] Objetos planos
 
 Referencias:
  - (Use) https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Funciones/Arrow_functions
