@@ -7,7 +7,7 @@ Desarrollo e investigaciones de las "funciones flecha" en ES6
  - [ ] Objetos planos; '{' ambiguo
  - [ ] Explicar el binding del this
  - [ ] Ejemplo botones; no usar variable auxiliar (pro) 
- - [ ] Ejemplo protorypos; al agregar metodo que ocupa this a objeto, this no esta bien definido (scope objeto, no metodo)
+ - [ ] Ejemplo prototipos; al agregar metodo que ocupa this a objeto, this no esta bien definido (scope objeto, no método)
 
 ##Conclusiones:
  - Para ocupar nuevos contextos, se debe ocupar una declaración de función.
